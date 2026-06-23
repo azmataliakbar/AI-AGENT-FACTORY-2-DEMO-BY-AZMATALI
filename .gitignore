@@ -8,3 +8,5 @@ venv/
 *.log
 dist/
 build/
+frontend/.env.local
+*.env.local
